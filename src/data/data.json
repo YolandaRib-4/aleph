@@ -1,2 +1,150 @@
 
+  [
+    {
+      "id": 1,
+      "name": "Barrenderos espaciales",
+      "year": 2021,
+      "genero": "Drama, Fantasía, Ciencia ficción",
+      "length": "2h 16m",
+      "synopsis": "En 2092, la tripulación de una nave basurero espacial llama Victory descubre un robot humanoide llamado Dorothy, un arma de destrucción masiva, y se ven envueltos en un negocio de alto riesgo.",
+      "director": "Jo Sung-hee",
+      "language": "Coreano", 
+      "poster":
+        "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/barrenderos_espaciales.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Cherry",
+        "year": 2021,
+        "genero": "Crimen, Drama",
+        "length": "2h 20m",
+        "synopsis": "Cuenta la historia real de Nico Walker, que volvió de la guerra de Iraq con un trastorno de estrés postraumático no diagnosticado que le llevó primero a hacerse adicto al opio y posteriormente a robar bancos.",
+        "director": "Joe Russo, Anthony Russo",
+        "language": "Ingles", 
+        "poster":
+          "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/cherry.jpg"
+      },
+      {
+        "id": 3,
+        "name": "El cuento de la criada",
+        "year": 2017,
+        "genero": "Fantasia, Drama",
+        "length": "50m",
+        "synopsis": "Para enfrentarse a una tasa de natalidad en declive, un régimen fundamentalista ha empezado a tratar a las mujeres como propiedades. Como una de las pocas mujeres fértiles que quedan, Defred es una criada, una más de la casta de mujeres forzadas a una servidumbre sexual para intentar repoblar el mundo.",
+        "director": "Bruce Miller",
+        "language": "Ingles", 
+        "poster":
+          "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/el_cuento_de_la_criada.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Escupiré sobre tu tumba 2",
+        "year": 2013,
+        "genero": "Suspenso, Terror, Crimen",
+        "length": "1h 46m",
+        "synopsis": "Jessica acaba de instalarse en Nueva York, donde, al igual que muchas otras jóvenes trata de hacer carrera como modelo. Pero en su primera sesión de fotos en la gran ciudad termina siendo brutalmente violada y torturada. Creyéndola muerta, Jessica es enterrada viva, pero contra todo pronóstico, se las arregla para escapar con vida de su tumba.",
+        "director": "Steve R. Monroe",
+        "language": "Ingles", 
+        "poster":
+          "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/escupire_sobre_tu_tumba.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Ferry",
+        "year": 2021,
+        "genero": "Suspenso, Terror, Crimen",
+        "length": "1h 40m",
+        "synopsis": "Antes de crear un emporio de la droga, Ferry Bouman vuelve a su ciudad para vengarse. Allí se pondrá a prueba su lealtad y el amor le cambiará la vida.",
+        "director": "Cecilia Verheyden",
+        "language": "Holandés", 
+        "poster":
+          "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/ferry.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Hacemos una porno",
+        "year": 2008,
+        "genero": "Comedia",
+        "length": "1h 42m",
+        "synopsis": "Zack y Miri son dos amigos que se conocieron en el instituto y a los que les cuesta afrontar la edad adulta pues, a sus veintimuchos años, se ven inmersos en deudas. Para hacer dinero rápido deciden montar una empresa para grabar porno amateur con sus amigos. Mientras rueden las películas, descubrirán que sentían algo más el uno hacia el otro que la platónica amistad que les había unido hasta ahora.",
+        "director": "Kevin Smith",
+        "language": "Inglés", 
+        "poster":
+          "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/hacemos_una_porno.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Sin remordimientos",
+        "year": 2021,
+        "genero": "Accion, Suspenso",
+        "length": "1h 50m",
+        "synopsis": "Un ex Navy SEAL convertido en agente de la CIA busca venganza después de que su novia es asesinada por un narcotraficante de Baltimore.",
+        "director": "Stefano Sollima",
+        "language": "Inglés", 
+        "poster":
+          "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/sin_remordimientos.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Historia de venganza",
+        "year": 2017,
+        "genero": "Drama, Suspenso",
+        "length": "1h 32m",
+        "synopsis": "Una historia de venganza narra la historia del accidente real de avión que tuvo lugar en Überlingen el 1 de julio de 2002, en el que murieron más de un centenar de personas tras el choque de dos aviones, y los sucesos que tuvieron lugar 478 días después. Roman (Schwarzenegger) es un padre que ha perdido todo lo que amaba en el accidente, por lo que dedicará todo su tiempo a buscar al responsable del accidente para tratar de hacer justicia.",
+        "director": "Elliott Lester",
+        "language": "Inglés", 
+        "poster":
+          "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/historia_de_venganza.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Invencible",
+        "year": 2020,
+        "genero": "Animacion, Fantasia",
+        "length": "1h 42m",
+        "synopsis": "Mark Grayson es un adolescente normal, excepto por el hecho de que su padre es el superhéroe más poderoso del planeta. Poco después de su decimoséptimo cumpleaños, Mark comienza a desarrollar sus propios poderes y entra en la tutela de su padre.",
+        "director": "Kevin Smith",
+        "language": "Inglés", 
+        "poster":
+          "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/invencible.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Lucifer",
+        "year": 2008,
+        "genero": "Comedia",
+        "length": "42m",
+        "synopsis": "La serie se centrará en Lucifer (Tom Ellis) quien, aburrido e infeliz como el Señor del Infierno, dimite de su trono y abandona su reino para trasladarse a la ciudad de Los Angeles y abrir un lujoso piano-bar llamado Lux. Una vez allí ayudará a la policía a castigar a los más peligrosos criminales de la ciudad.",
+        "director": "Tom Kapinos",
+        "language": "Inglés", 
+        "poster":
+          "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/lucifer.jpg"
+      },
+      {
+        "id": 11,
+        "name": "El niño 44",
+        "year": 2012,
+        "genero": "Comedia",
+        "length": "1h 42m",
+        "synopsis": "En la antigua Unión Soviética, Leo Demidov (Hardy) es un guardia de seguridad y antiguo héroe de guerra que cree fervientemente en Stalin. Pero cuando investiga una serie de asesinatos de niños, el estado lo releva de su cargo y lo aparta de la investigación para preservar la ilusión de una sociedad utópica libre de crimen. Demidov luchará entonces por encontrar la verdad tras estos asesinatos y la auténtica razón por la que el gobierno rehúsa reconocerlos. Por su parte, su esposa (Rapace) es la única que permanece a su lado, aunque quizá ella oculta también sus propios secretos.",
+        "director": "Daniel Espinosa",
+        "language": "Inglés", 
+        "poster":
+          "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/nino_44.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Patrulla Trueno",
+        "year": 2015,
+        "genero": "Comedia",
+        "length": "1h 42m",
+        "synopsis": "En un mundo en el que los supervillanos son algo común, dos amigas de la infancia distanciadas se reúnen después de que una de ellas idee un tratamiento que les da superpoderes para proteger su ciudad.",
+        "director": "Ben Falcone",
+        "language": "Inglés", 
+        "poster":
+          "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/patrulla_tueno.jpg"
+      }
+  ]
+  
+  
   
