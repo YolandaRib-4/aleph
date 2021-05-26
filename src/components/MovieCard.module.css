@@ -1,0 +1,10 @@
+.movieCard{
+  display: inline-block;
+}
+
+
+.poster {
+    width: 150px;
+    height: 225px;
+    border-radius: 7px;
+  }

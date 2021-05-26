@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "Barrenderos espaciales",
+      "score": 45,
       "year": 2021,
       "genero": "Drama, Fantasía, Ciencia ficción",
       "length": "2h 16m",
@@ -10,11 +11,12 @@
       "director": "Jo Sung-hee",
       "language": "Coreano", 
       "poster":
-        "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/barrenderos_espaciales.jpg"
+        "https://raw.githubusercontent.com/YolandaRib-4/aleph/develop/src/assets/barrenderos_espaciales.jpg"
     },
     {
         "id": 2,
         "name": "Cherry",
+        "score": 41,
         "year": 2021,
         "genero": "Crimen, Drama",
         "length": "2h 20m",
@@ -22,11 +24,12 @@
         "director": "Joe Russo, Anthony Russo",
         "language": "Ingles", 
         "poster":
-          "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/cherry.jpg"
+          "https://raw.githubusercontent.com/YolandaRib-4/aleph/develop/src/assets/cherry.jpg"
       },
       {
         "id": 3,
         "name": "El cuento de la criada",
+        "score": 38,
         "year": 2017,
         "genero": "Fantasia, Drama",
         "length": "50m",
@@ -34,11 +37,12 @@
         "director": "Bruce Miller",
         "language": "Ingles", 
         "poster":
-          "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/el_cuento_de_la_criada.jpg"
+          "https://raw.githubusercontent.com/YolandaRib-4/aleph/develop/src/assets/el_cuento_de_la_criada.jpg"
       },
       {
         "id": 4,
         "name": "Escupiré sobre tu tumba 2",
+        "score": 32,
         "year": 2013,
         "genero": "Suspenso, Terror, Crimen",
         "length": "1h 46m",
@@ -46,11 +50,12 @@
         "director": "Steve R. Monroe",
         "language": "Ingles", 
         "poster":
-          "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/escupire_sobre_tu_tumba.jpg"
+          "https://raw.githubusercontent.com/YolandaRib-4/aleph/develop/src/assets/escupire_sobre_tu_tumba.jpg"
       },
       {
         "id": 5,
         "name": "Ferry",
+        "score": 29,
         "year": 2021,
         "genero": "Suspenso, Terror, Crimen",
         "length": "1h 40m",
@@ -58,11 +63,12 @@
         "director": "Cecilia Verheyden",
         "language": "Holandés", 
         "poster":
-          "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/ferry.jpg"
+          "https://raw.githubusercontent.com/YolandaRib-4/aleph/develop/src/assets/ferry.jpg"
       },
       {
         "id": 6,
         "name": "Hacemos una porno",
+        "score": 29,
         "year": 2008,
         "genero": "Comedia",
         "length": "1h 42m",
@@ -70,11 +76,12 @@
         "director": "Kevin Smith",
         "language": "Inglés", 
         "poster":
-          "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/hacemos_una_porno.jpg"
+          "https://raw.githubusercontent.com/YolandaRib-4/aleph/develop/src/assets/hacemos_una_porno.jpg"
       },
       {
         "id": 7,
         "name": "Sin remordimientos",
+        "score": 24,
         "year": 2021,
         "genero": "Accion, Suspenso",
         "length": "1h 50m",
@@ -82,11 +89,12 @@
         "director": "Stefano Sollima",
         "language": "Inglés", 
         "poster":
-          "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/sin_remordimientos.jpg"
+          "https://raw.githubusercontent.com/YolandaRib-4/aleph/develop/src/assets/sin_remordimientos.jpg"
       },
       {
         "id": 8,
         "name": "Historia de venganza",
+        "score": 21,
         "year": 2017,
         "genero": "Drama, Suspenso",
         "length": "1h 32m",
@@ -94,11 +102,12 @@
         "director": "Elliott Lester",
         "language": "Inglés", 
         "poster":
-          "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/historia_de_venganza.jpg"
+          "https://raw.githubusercontent.com/YolandaRib-4/aleph/develop/src/assets/historia_de_venganza.jpg"
       },
       {
         "id": 9,
         "name": "Invencible",
+        "score": 19,
         "year": 2020,
         "genero": "Animacion, Fantasia",
         "length": "1h 42m",
@@ -106,11 +115,12 @@
         "director": "Kevin Smith",
         "language": "Inglés", 
         "poster":
-          "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/invencible.jpg"
+          "https://raw.githubusercontent.com/YolandaRib-4/aleph/develop/src/assets/invencible.jpg"
       },
       {
         "id": 10,
         "name": "Lucifer",
+        "score": 15,
         "year": 2008,
         "genero": "Comedia",
         "length": "42m",
@@ -118,11 +128,12 @@
         "director": "Tom Kapinos",
         "language": "Inglés", 
         "poster":
-          "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/lucifer.jpg"
+          "https://raw.githubusercontent.com/YolandaRib-4/aleph/develop/src/assets/lucifer.jpg"
       },
       {
         "id": 11,
         "name": "El niño 44",
+        "score": 10,
         "year": 2012,
         "genero": "Comedia",
         "length": "1h 42m",
@@ -130,11 +141,12 @@
         "director": "Daniel Espinosa",
         "language": "Inglés", 
         "poster":
-          "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/nino_44.jpg"
+          "https://raw.githubusercontent.com/YolandaRib-4/aleph/develop/src/assets/nino_44.jpg"
       },
       {
         "id": 12,
         "name": "Patrulla Trueno",
+        "score": 8,
         "year": 2015,
         "genero": "Comedia",
         "length": "1h 42m",
@@ -142,7 +154,7 @@
         "director": "Ben Falcone",
         "language": "Inglés", 
         "poster":
-          "https://github.com/YolandaRib-4/aleph/blob/develop/src/assets/patrulla_tueno.jpg"
+          "https://raw.githubusercontent.com/YolandaRib-4/aleph/develop/src/assets/patrulla_tueno.jpg"
       }
   ]
   

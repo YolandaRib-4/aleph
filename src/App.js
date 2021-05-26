@@ -1,13 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
+import MoviesContainer from './components/MoviesContainer'
 
 function App() {
+
+  
   return (
     <div className="App">
       
-        <p>
-          Edit and save to reload.
-        </p>
+        <MoviesContainer></MoviesContainer>
         
     </div>
   );
