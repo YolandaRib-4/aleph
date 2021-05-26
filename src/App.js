@@ -7,12 +7,9 @@ import {
   Route
 } from "react-router-dom";
 
-function App() {
-
-  
+function App() {  
   return (
     <div className="App">
-
         <Router>
         <Switch>
           <Route path="/movie/:idx">
@@ -22,8 +19,7 @@ function App() {
             <MoviesContainer />
           </Route>
         </Switch>    
-    </Router>
-        
+    </Router>        
     </div>
   );
 }
