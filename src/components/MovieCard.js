@@ -3,6 +3,7 @@ import styles from './MovieCard.module.css';
 import {useSelector, useDispatch} from 'react-redux';
 import {increment, decrement} from '../redux/actions';
 import Score from './Score';
+import { Link } from "react-router-dom";
 
 
 const MovieCard = (props) => {
@@ -18,7 +19,7 @@ const MovieCard = (props) => {
     }
 
     return (    <div className={styles.movieCard}>
-                <img src={poster} className={styles.poster}/> 
+                <Link to={`movie/${idx}`}><img src={poster} className={styles.poster} /></Link>
                 <Score onIncrement={handleScoreIncrement} onDecrement={handleScoreDecrement} votes={score}></Score>
                 </div>          
     )
