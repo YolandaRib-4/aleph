@@ -13,4 +13,16 @@ In the project directory, you can run:
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+# Git Branching Strategy 
+
+![Esta es una imagen de ejemplo](https://raw.githubusercontent.com/YolandaRib-4/aleph/main/src/assets/git-process.png)
+
+# Component Structure
+
+![Esta es una imagen de ejemplo](https://raw.githubusercontent.com/YolandaRib-4/aleph/main/src/assets/component-structure.png)
+![Esta es una imagen de ejemplo](https://raw.githubusercontent.com/YolandaRib-4/aleph/main/src/assets/little-sq.jpg)
+
+
+
+
 
