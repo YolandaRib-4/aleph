@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aleph/static/css/main.77f07333.chunk.css",
+    "main.js": "/aleph/static/js/main.d42a1b25.chunk.js",
+    "main.js.map": "/aleph/static/js/main.d42a1b25.chunk.js.map",
+    "runtime-main.js": "/aleph/static/js/runtime-main.eb28575b.js",
+    "runtime-main.js.map": "/aleph/static/js/runtime-main.eb28575b.js.map",
+    "static/js/2.07f33234.chunk.js": "/aleph/static/js/2.07f33234.chunk.js",
+    "static/js/2.07f33234.chunk.js.map": "/aleph/static/js/2.07f33234.chunk.js.map",
+    "static/js/3.9814561c.chunk.js": "/aleph/static/js/3.9814561c.chunk.js",
+    "static/js/3.9814561c.chunk.js.map": "/aleph/static/js/3.9814561c.chunk.js.map",
+    "index.html": "/aleph/index.html",
+    "static/css/main.77f07333.chunk.css.map": "/aleph/static/css/main.77f07333.chunk.css.map",
+    "static/js/2.07f33234.chunk.js.LICENSE.txt": "/aleph/static/js/2.07f33234.chunk.js.LICENSE.txt",
+    "static/media/MoviesContainer.module.css": "/aleph/static/media/background-header.e75a2b34.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb28575b.js",
+    "static/js/2.07f33234.chunk.js",
+    "static/css/main.77f07333.chunk.css",
+    "static/js/main.d42a1b25.chunk.js"
+  ]
+}
