@@ -10,7 +10,7 @@ import {
 function App() {  
   return (
     <div className="App">
-        <Router basename="/aleph">
+        <Router>
         <Switch>
           <Route path="/movie/:idx">
             <MovieDetails />
