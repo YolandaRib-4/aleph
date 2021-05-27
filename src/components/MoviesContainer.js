@@ -24,7 +24,7 @@ const MoviesContainer = () => {
 	return (
 		<>
 		<header className={styles.header}>
-			<h1>Bienvenidos</h1>
+			<h1>Bienvenides</h1>
 			<p>Explora ahora las películas que tenemos para ti</p>
 			<Filter onChange={handleFilter} />
 		</header>
