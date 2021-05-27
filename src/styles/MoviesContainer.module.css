@@ -1,0 +1,22 @@
+.header{
+    background-image: url('../assets/background-header.jpg');
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 1.3em;
+    line-height : 55px; 
+    text-shadow: #222 0 0 5px;
+}
+
+
+.moviesGridContainer {  
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    margin-top: 30px;
+}

@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './MovieCard.module.css';
+import styles from '../styles/MovieCard.module.css';
 import {useSelector, useDispatch} from 'react-redux';
 import {increment, decrement} from '../redux/actions';
 import Score from './Score';
